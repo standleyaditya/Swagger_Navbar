@@ -1,0 +1,126 @@
+/* navbar */
+.navbar {
+  background-color: #173647 !important;
+}
+
+.navbar a {
+  color: white !important;
+  margin-right: 30px;
+}
+
+.logo {
+  height: auto;
+  width: 230px;
+  max-height: 60px;
+}
+.nav-link:hover {
+  background-color: rgba(255, 255, 255, 0.1);
+}
+
+/* dropdown */
+.dropdown button {
+  color: white !important;
+}
+
+.dropdown-menu a {
+  color: black !important;
+}
+
+#dropdownMenuLink:hover {
+  background-color: rgba(255, 255, 255, 0.1);
+}
+
+/* navbar-line2 */
+#Navbar-line2 {
+  margin-top: 10px;
+  margin-left: 20px;
+}
+
+.btn-name.dropdown-toggle {
+  color: #212529 !important;
+  text-decoration: none;
+  font-size: 20px;
+  margin-left: 10px;
+}
+
+.btn-name.dropdown-toggle:hover {
+  background-color: gainsboro;
+}
+
+.badge {
+  text-transform: uppercase;
+  display: inline-block;
+  position: relative;
+  padding: 5px;
+  border-radius: 3px;
+  text-align: center;
+  margin-right: 5px;
+  font-size: 11px;
+  line-height: 1;
+  font-weight: bold;
+  width: 55px;
+  height: 20px;
+  background-color: #b6becb;
+  color: #333;
+}
+
+.border-icon {
+  display: inline-block;
+  height: 30px;
+  width: 30px;
+  line-height: 30px;
+  border-radius: 15px;
+  text-align: center;
+  font-size: 12px;
+  margin-left: 10px;
+  margin-right: 10px;
+  line-height: 28px;
+  border-color: #00a0b4;
+  border-radius: 200px;
+  -webkit-box-sizing: border-box;
+  box-sizing: border-box;
+  border: 1px solid #cfd8dc;
+  background-color: #ffffff;
+  color: #000000;
+  cursor: pointer;
+}
+
+.btnwrap {
+  text-align: center !important;
+  margin: auto;
+}
+.btnwrap button {
+  padding-left: 20px;
+  padding-right: 20px;
+}
+
+.btn-export.dropdown-toggle {
+  font-size: 20px;
+}
+
+.drp-export {
+  margin-right: 75px;
+}
+.drp-export:hover {
+  background-color: gainsboro;
+}
+
+.border-icon:hover {
+  background-color: gainsboro;
+}
+
+.btn-name2.dropdown-toggle {
+  color: #212529 !important;
+}
+
+.table-1 a {
+  margin-left: 5px;
+  color: #40728c !important;
+}
+
+.navbar-2 {
+  background-color: transparent !important;
+}
+.navbar-2 a {
+  color: black !important;
+}
